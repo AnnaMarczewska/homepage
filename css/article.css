@@ -1,0 +1,31 @@
+.article {
+    max-width: 600px;
+    padding: 10px;
+    box-shadow: 2px 2px 10px darkgreen;
+    margin: 10px auto;
+    border-radius: 15%;
+}
+
+.article__header {
+    color: purple;
+    font-size: larger;
+    text-align: center;
+}
+
+.article__paragraf {
+    color: darkgreen;
+    text-align: center;
+}
+
+.article__paragraf--newColor { 
+    color: red;
+}
+
+.article__paragraf--newColor.article__paragraf { 
+    color: rgb(65, 7, 7);
+}
+
+.article--colorLighter {
+    background-color: rgb(209, 184, 160);
+
+}

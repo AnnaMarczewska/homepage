@@ -4,7 +4,7 @@ let button1 = document.querySelector(".button1");
 let header__title = document.querySelector(".header__title");
 
 let sectionFour__button = document.querySelector(".sectionFour__button");
-let czwartaZwrotka = document.querySelector(".czwartaZwrotka");
+let fourVerse = document.querySelector(".fourVerse");
 
 
 button1.addEventListener("click", () => {
@@ -12,7 +12,7 @@ button1.addEventListener("click", () => {
 });
 
 sectionFour__button.addEventListener("click", () => {
-    czwartaZwrotka.innerText = "Wesołych Świąt HO HO HO";
+    fourVerse.innerText = "Wesołych Świąt HO HO HO";
 });
 
 let buttonBetweenSection = document.querySelector(".buttonBetweenSection");

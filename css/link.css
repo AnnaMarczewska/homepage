@@ -1,0 +1,12 @@
+.link {
+    text-decoration: none;
+    color: azure;
+    background-color: darkgreen;
+    padding: 100 px 10 px;
+}
+
+.link :hover {
+    color: crimson;
+    border-bottom: 1px solid;
+    outline: none;
+}

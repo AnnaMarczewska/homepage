@@ -1,0 +1,16 @@
+.sectionTwo__stars {
+    color: purple;
+}
+
+.sectionThree__beautiful {
+    color: rgba(128, 0, 0, 0.911);
+}
+
+.sectionFour__background {
+    background-color: rgb(233, 201, 162);
+    color: rgb(2, 19, 2);
+}
+
+.sectionTable__container {
+    overflow-x: auto;
+}

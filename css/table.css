@@ -1,0 +1,33 @@
+.table {
+    border-collapse: collapse;
+}
+
+.table__cell {
+    border: 2px dotted darkgreen;
+    text-align: center;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+.table__cell table__cell--header {
+    background-color: rgba(112, 228, 112, 0.747);
+}
+
+.table__row:nth-child(even) {
+    background-color: rgba(214, 240, 214, 0.747);
+}
+
+.table__row:hover {
+    background-color: rgba(112, 228, 112, 0.747);
+}
+
+
+
+.table__caption {
+    caption-side: top;
+    text-align: center;
+    color: darkgreen;
+    font-weight: bold;
+    font-size: 30px;
+    text-shadow: 1px 2px 5px #888;
+}

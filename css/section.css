@@ -1,12 +1,12 @@
-.sectionTwo__stars {
+.section__stars {
     color: purple;
 }
 
-.sectionThree__beautiful {
+.section__beautiful {
     color: rgba(128, 0, 0, 0.911);
 }
 
-.sectionFour__background {
+.section__background {
     background-color: rgb(233, 201, 162);
     color: rgb(2, 19, 2);
 }
